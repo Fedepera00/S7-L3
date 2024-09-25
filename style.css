@@ -1,0 +1,31 @@
+body {
+  background-color: #34383b;
+}
+.navbar {
+  background-color: #6c757d;
+}
+.navbar-brand {
+  color: #fff;
+}
+.card {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border: none;
+}
+.card-body {
+  background-color: #fff5e6;
+}
+.btn-remove,
+.btn-add {
+  margin-top: 10px;
+}
+#cart-count {
+  background-color: #dc3545;
+  color: #fff;
+  padding: 0 7px;
+  border-radius: 50%;
+  font-size: 0.9rem;
+}
+.modal-header {
+  background-color: #6c757d;
+  color: white;
+}
